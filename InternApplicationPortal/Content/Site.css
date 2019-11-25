@@ -1,10 +1,12 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    color: red;
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
+    color: red;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -13,6 +15,7 @@
    will truncate terms that are too long to fit in the left column 
 */
 .dl-horizontal dt {
+    color: blue;
     white-space: normal;
 }
 
@@ -20,5 +23,6 @@
 input,
 select,
 textarea {
+    color: green;
     max-width: 280px;
 }
